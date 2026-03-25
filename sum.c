@@ -12,7 +12,7 @@ int main() {
         n = n / 10;
     }
 
-    printf("Sum of digits = %d", sum);
+   printf("Result = %d", sum);
 
     return 0;
 }
